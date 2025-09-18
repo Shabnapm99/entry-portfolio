@@ -1,0 +1,27 @@
+#heroSection, .bg-circle-2 {
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.8) 100%),
+        url("../images/bg.png");
+}
+
+.line {
+    background-color: chocolate;
+}
+
+section {
+    scroll-margin-top: 4rem;
+}
+
+#hamburger-menu:hover {
+    background-color: grey;
+}
+
+nav a:hover {
+    background-color: azure;
+    color: black !important;
+    /* !importantis used to override inline css property or bootstrap styles */
+    border-radius: 2px;
+}
+
+#contact button:hover {
+    background-color: rgb(180, 174, 174) !important;
+}
