@@ -3,6 +3,13 @@
         url("../images/bg.png");
 }
 
+.text-chocolate{
+    color: chocolate;
+}
+
+.bg-chocolate{
+    background-color: chocolate;
+}
 .line {
     background-color: chocolate;
 }
